@@ -1,4 +1,4 @@
-# JavaScript-projects
+# Front-end-projects
 
 
 These are the front-end projects I did during my JavaScript study.
