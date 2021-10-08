@@ -1,4 +1,4 @@
 # JavaScript-projects
 
 
-These are projects I did in learning JavaScript [(Modern JavaScript)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/).
+These are the front-end projects I did during my JavaScript study. [(Class: Modern JavaScript)](https://www.udemy.com/course/modern-javascript-from-novice-to-ninja/).
